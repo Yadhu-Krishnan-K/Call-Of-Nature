@@ -81,10 +81,6 @@ body {
   background-color: rgba(255,255,255,0.2);
   border-radius: 12px;
 
-  /* width: 100%;
-  margin: 1rem auto;
-  border-radius: 12px;
-  background-color: rgba(255,255,255,0.2); */
 }
 .app .search{
   display: flex;
@@ -113,7 +109,3 @@ h1 {
   font-size: 3.2em;
   line-height: 1.1;
 }
-
-
-
-
